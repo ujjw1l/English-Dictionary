@@ -1,5 +1,8 @@
 # English-Dictionary
 A pandas project whicht processes a dictionary dataset, cleans it, and provides a command-line interface for looking up word definitions.
+The dataset is in form of (.csv) file.
+The python file is present in two formats (.py) and (.ipynb)
+Users can open the project in their Jupyter Notebook using the (.ipynb) file.
 
 Here's a step-by-step breakdown of what the project does:
 
